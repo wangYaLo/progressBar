@@ -1,1 +1,3 @@
-console.log(1111111);
+console.log(11111112222222);
+let a = 222
+console.log(a);
